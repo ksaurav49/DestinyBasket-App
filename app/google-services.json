@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918855977671",
+    "firebase_url": "https://destiny-basket-ba46b.firebaseio.com",
+    "project_id": "destiny-basket-ba46b",
+    "storage_bucket": "destiny-basket-ba46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918855977671:android:17e9476a260b0466",
+        "android_client_info": {
+          "package_name": "nmdl.express.ecomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918855977671-slb5khv9e5mu7obbv2fr69v3hma25n64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nmdl.express.ecomm",
+            "certificate_hash": "d4fa45720c1e6b8e0385603982469aa8268b48c1"
+          }
+        },
+        {
+          "client_id": "918855977671-8k74721385pjlkn6aqes47ppjhets727.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vx4x13YpXURtINpBEtSU_cTBcnRZwBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918855977671-8k74721385pjlkn6aqes47ppjhets727.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
